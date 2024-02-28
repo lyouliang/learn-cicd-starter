@@ -20,4 +20,3 @@ job:
 
       - name: Force Failure
         run: go version
-        run: (exit 0)
